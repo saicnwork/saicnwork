@@ -1,36 +1,39 @@
-# Hi there! 👋 I'm Sai Chaitanya Nandipati
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sai Chaitanya Nandipati
+===============================================================================================================================================
 
-Accomplished software developer with 8+ years of experience in software and hardware engineering, complemented by dual master’s degrees in Computer Science (ML) and Electrical Engineering (VLSI). Skilled in developing Python automation frameworks, integrating testing into CI/CD pipelines, and driving automation initiatives. Proven mentor and process improvement advocate, enhancing team efficiency and productivity.
+Staff Software Engineer
+-----------------------
 
-## 🛠 Skills
+With over 8 years of experience in software development and a strong foundation in hardware integration, I have honed my skills in automation and CI/CD pipeline optimization. My expertise lies in developing robust Python automation frameworks and modernizing legacy systems to enhance operational efficiency. I hold dual master’s degrees in Computer Science (Machine Learning) from Georgia Institute of Technology and Electrical Engineering (VLSI) from the University of Cincinnati. This unique combination of advanced education and practical experience positions me well to tackle complex machine learning challenges. At Qualcomm, I led the development of a Python test automation framework that significantly reduced release cycles and integrated testing into CI/CD pipelines, cutting delivery times by 25%. My role also involved mentoring team members and driving process improvements, resulting in a 50% reduction in user-reported defects. My tenure at Intel Corporation further solidified my technical acumen, where I developed quality and performance verification tools for high-speed processors and automated critical workflows, reducing execution times dramatically. I am now eager to leverage my extensive software development background and machine learning expertise to contribute to innovative projects and drive technological advancements in the field of machine learning.
 
-- **Languages:** Python (PyTorch, NumPy, Matplotlib, Pandas, scikit-learn), Shell, C/C++, Verilog
-- **Tools & Technologies:** Git, Gerrit, Jenkins, Make, PyCharm, Network programming
-- **Machine Learning:** Algorithms (Regression, Decision Trees, Neural Networks), Deep Learning
+* 🌍  I'm based in San Diego
+* ✉️  You can contact me at [saicn.work@gmail.com](mailto:saicn.work@gmail.com)
+* 🤝  I'm open to collaborating on AI/ML Projects
 
-## 💼 Experience
+### Skills
 
-### Staff R&D Software Engineer
-**Qualcomm**  
 
-- Developed and maintained an End-to-End Python test Automation Framework, reducing release cycles significantly.
-- Integrated automated testing into CI/CD pipelines using Jenkins and Groovy scripts, enhancing delivery efficiency.
-- Mentored team members on Python and automation best practices, boosting overall productivity.
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.perl.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/perl-colored.svg" width="36" height="36" alt="Perl" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
+</p>
 
-### CAD Software Engineer
-**Intel Corporation**  
 
-- Developed and maintained verification tools for high-speed processors.
-- Automated critical workflows, significantly reducing execution times.
+### Socials
 
-## 🎓 Education
+<p align="left"> <a href="https://www.github.com/saicnwork" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/saichnandipati" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-- **M.S. in Computer Science (Machine Learning)**  
-  Georgia Institute of Technology  
-  GPA: 4.0, Dec 2022
+### Badges
 
-- **M.Eng. in Electrical Engineering (VLSI)**  
-  University of Cincinnati  
-  GPA: 3.7, Aug 2017
+<b>My GitHub Stats</b>
 
-Feel free to reach out if you want to collaborate on exciting projects or just have a chat about tech!
+<a href="http://www.github.com/saicnwork"><img src="https://github-readme-stats.vercel.app/api?username=saicnwork&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="saicnwork's GitHub stats" /></a>
+
+<a href="http://www.github.com/saicnwork"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saicnwork&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/saicnwork"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=saicnwork&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/saicnwork" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saicnwork&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/saicnwork/Machine-Learning-Portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=saicnwork&repo=Machine-Learning-Portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
